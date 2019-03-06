@@ -1,0 +1,7 @@
+Main objective: Help students with propositional and predicate logic (CPSC 121 and PHIL 220)
+Sub-objectives:
+1. Provide a relatively quick overview or synopsis of the topic
+2. Examples
+3. Exercises 
+4. Process whether an answer is correct and give feedback as to why it might not be
+	

@@ -1,0 +1,70 @@
+body, html{
+	margin: 0;
+	padding: 0;
+}
+.line{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
+
+.md-25{
+
+	width: 25%;
+	display: flex;
+	flex-direction: row;
+}
+
+.md-50{
+	width: 50%;
+	display: flex;
+    flex-direction: row;
+}
+.md-40{
+	width: 40%; 
+	display: flex;
+    flex-direction: row;
+}
+.md-60{
+	width: 60%; 
+	display: flex;
+    flex-direction: row;
+}
+.row{
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+}
+.sub-rows{
+	display: block;
+	
+}
+
+.center-text{
+	text-align: center;
+	vertical-align: middle;
+}
+.quest-buttons{
+	flex-wrap:wrap;
+	
+}
+
+h4{
+	width: 100%;
+}
+
+a{
+	width: 100%;
+	padding-top: 1em;
+}
+.sticky{
+	position: -webkit-sticky;
+	position: sticky;
+	top: 4rem;
+}
+
+.truth-table{
+	align-items: flex-start;
+}
